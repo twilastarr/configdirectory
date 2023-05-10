@@ -57,6 +57,7 @@ Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in 
 <br />
 
 <p>
+  
 <img src="https://i.imgur.com/ecOToAU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
