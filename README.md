@@ -23,8 +23,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 Setup Azure Rescource
 - Step 2 Install Active Directory
-- Step 3
-- Step 4
+- Step 3 Create Users
+
 
 <h2>Deployment and Configuration Steps</h2>
 
